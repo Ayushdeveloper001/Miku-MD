@@ -34,7 +34,7 @@ console.log(color('\nYou can follow me on GitHub: Ayushdeveloper001','aqua'))
     const Miku = MikuConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Miku by: Ayush','Safari','1.0.0'],
+        browser: ['Miku by: Fantox','Safari','1.0.0'],
         auth: state,
         version
     })
